@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "build": "mkdir -p public && echo '1' >> public/index.txt"
+    }
+}
